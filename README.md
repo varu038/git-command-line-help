@@ -41,5 +41,5 @@ b. create a new branch and push the new branch to remote.
     Once the changes are done committed to local branch to push the branch to remote repository : 
     git push --set-upstream origin newBranch
 
-
+    Once these changes are done and newBranch is created on remote repository to merge changes to master create pull request and merge the change into master.
 
